@@ -1,7 +1,7 @@
 * {
-    border: none;
-    padding: 0;
     margin: 0;
+    padding: 0;
+    border: none;
 
     box-sizing: border-box;
 }
@@ -9,24 +9,28 @@
 body {
     font-size: 16px;
     background-color: white;
-
     color: black;
-
-    font-family: Arial, Helvetica, sans-serif;
-
-
 }
 
-.hidden { display: none;}
+.hidden { display: none; }
 
-.icons {text-align: center;}
+.icon-container {
+    text-align: center;
+}
 
-.icons h2 { font-size: 2em;margin: 10px 0;}
-
-.icons div {
-    width: 45%;
+.wrapper {
+    width: 15%;
     display: inline-block;
 
+    padding: 1em;
 }
 
-.icons div img { width: 100%;}
+.wrapper img { 
+    width: 20%;
+}
+
+#smalltext { transition: all 0.5s ease; transform-origin: 50%;}
+
+#newBadge:hover #bg_circle { fill: orange; }
+
+#newBadge:hover #smalltext { fill: white; transform: rotate(130deg); }
