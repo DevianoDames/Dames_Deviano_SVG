@@ -1,10 +1,10 @@
-# Project Name
+# Awesome icons
 
-TODO: Write a project description
 
 ## Installation
 
-TODO: Describe the installation process
+First i turned icons into SVG
+Then I created repo file on GITHUB. Afterward i created folders using terminal. I added html and started working on my branch.
 
 ## Usage
 
@@ -23,9 +23,8 @@ TODO: Write usage instructions
 TODO: Write history
 
 ## Credits
-
-TODO: Write credits
+Got My icons from Flaticon and Font Awesome!
 
 ## License
 
-TODO: Write license
+No license was used this time
