@@ -110,6 +110,23 @@ a {
 #book-now-top:hover {
     background-color: #626262;
 }
+/* Icons images */
+
+#icons1:hover #all-arrows {
+	fill: green;
+	
+}
+
+#icons9:hover {
+	fill: #FFD700;
+	cursor: pointer;
+
+}
+
+#icons10:hover {
+	fill: blue;
+}
+
 
 /* Footer Area */
 
