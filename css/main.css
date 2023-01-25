@@ -125,6 +125,7 @@ a {
 
 #icons10:hover {
 	fill: blue;
+	transform: scale(50px,100px);
 }
 
 
