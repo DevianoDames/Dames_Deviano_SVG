@@ -3,7 +3,7 @@
 
 ## Installation
 
-First i turned icons into SVG
+First i changed icons into SVG
 Then I created repo file on GITHUB. Afterward i created folders using terminal. I added html and started working on my branch.
 
 ## Usage
